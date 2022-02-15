@@ -1,0 +1,15 @@
+#KAKAROT #kernel #S #kernel #SSJ1
+<b>Kakarot-Kernel for Realme6Pro</b>
+Maintainer: @Neel0210
+
+<b>Changelog</b>
+<code>• Kakarot initial kernel for RUI
+• Trying to Fix Audio</code>
+
+<b>Note</b>
+• Flash everything at your own-risk
+
+<b>Support group</b>
+• @prishsupport
+• @Kakarot_Kernels
+• @prishupdates
