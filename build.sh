@@ -13,7 +13,7 @@ export TC="/home/neel/Desktop/toolchain/"
 export VMTC="$(pwd)/clang"
 
 # Enforcing
-RUI="atoll_defconfig"
+RUI="vendor/atoll-perf_defconfig"
 clear
 echo "---------------------------"
 echo checking if bulding offline
@@ -61,6 +61,7 @@ echo "Building Clean"
 echo "==============="
 # Clean build leftovers
 make clean && make mrproper
+rm -rf out
 clear
 echo "==================="
 echo "Building Clean for "
